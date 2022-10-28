@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\19.10\19.10\bin\Debug\net6.0\19.10.exe
+C:\Users\User\source\repos\19.10\19.10\bin\Debug\net6.0\19.10.deps.json
+C:\Users\User\source\repos\19.10\19.10\bin\Debug\net6.0\19.10.runtimeconfig.json
+C:\Users\User\source\repos\19.10\19.10\bin\Debug\net6.0\19.10.dll
+C:\Users\User\source\repos\19.10\19.10\bin\Debug\net6.0\19.10.pdb
+C:\Users\User\source\repos\19.10\19.10\obj\Debug\net6.0\19.10.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\19.10\19.10\obj\Debug\net6.0\19.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\19.10\19.10\obj\Debug\net6.0\19.10.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\19.10\19.10\obj\Debug\net6.0\19.10.AssemblyInfo.cs
+C:\Users\User\source\repos\19.10\19.10\obj\Debug\net6.0\19.10.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\19.10\19.10\obj\Debug\net6.0\19.10.dll
+C:\Users\User\source\repos\19.10\19.10\obj\Debug\net6.0\refint\19.10.dll
+C:\Users\User\source\repos\19.10\19.10\obj\Debug\net6.0\19.10.pdb
+C:\Users\User\source\repos\19.10\19.10\obj\Debug\net6.0\19.10.genruntimeconfig.cache
+C:\Users\User\source\repos\19.10\19.10\obj\Debug\net6.0\ref\19.10.dll
